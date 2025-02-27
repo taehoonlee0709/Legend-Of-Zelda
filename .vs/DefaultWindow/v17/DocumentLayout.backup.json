@@ -1,0 +1,1795 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RSPMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RSP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RSP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CollisionMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\ObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MovableStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MovableStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CollisionMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossGuhu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Uncle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Grandpa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Grandpa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CoinMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\KeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\KeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\ObjMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BoomerangBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BoomerangBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Octorock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OctorockBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\OctorockBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossExplosionEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SoundMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SoundMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB2D42-A0BE-4A0B-815E-3EBF04400712}|Header{FDFB2D42-A0BE-4A0B-815E-3EBF04400712}|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Header\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFB2D42-A0BE-4A0B-815E-3EBF04400712}|Header{FDFB2D42-A0BE-4A0B-815E-3EBF04400712}|solutionrelative:Header\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\ScrollMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\ScrollMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\StaffEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SwordEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\AbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\AbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\WandBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\WandBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ShieldBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\ShieldBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SwordBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SwordBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DefaultWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DefaultWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PuzzleStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\PuzzleStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyEdit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\FinalStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\FinalStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyEdit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DoorBlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DoorBlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TerrainObj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\TerrainObj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossRoomGate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossRoomGate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\GuhuSlaveEye.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RazerBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossExplosionEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Malon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CoinMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RSPMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Terry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Malon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Octorock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\FireBallBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\InventoryMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\BossGuhu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OverrayWeaponUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\OverrayWeaponUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\HeartUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\HeartUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\HeartUIMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\HeartUIMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Uncle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageStage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TextBoxMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\TextBoxMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\RazerBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\GuhuSlaveEye.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\FireBallBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\InventoryMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\SwordEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\StaffEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\VillageDoorFrame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PressureButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\PressureButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\DungeonDoorFrame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Moblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Moblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Terry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B98FA41-5353-4E44-87C0-C965939644CA}|Edit\\Edit.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Edit\\Edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B98FA41-5353-4E44-87C0-C965939644CA}|Edit\\Edit.vcxproj|solutionrelative:Edit\\Edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MyMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Logo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE73E112-030E-454F-81D7-7A9436EADC56}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Logo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Player.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.cpp",
+              "RelativeToolTip": "DefaultWindow\\Player.cpp",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAHkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T05:49:58.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ObjMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\ObjMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.h",
+              "RelativeToolTip": "DefaultWindow\\ObjMgr.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KeyMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\KeyMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.h",
+              "RelativeToolTip": "DefaultWindow\\KeyMgr.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T07:34:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\ObjMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ObjMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\ObjMgr.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Player.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Player.h",
+              "RelativeToolTip": "DefaultWindow\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSP.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\RSP.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.cpp",
+              "RelativeToolTip": "DefaultWindow\\RSP.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSP.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\RSP.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSP.h",
+              "RelativeToolTip": "DefaultWindow\\RSP.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSPMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\RSPMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\RSPMgr.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Octorock.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Octorock.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.cpp",
+              "RelativeToolTip": "DefaultWindow\\Octorock.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollisionMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CollisionMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CollisionMgr.cpp",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Obj.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Obj.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.h",
+              "RelativeToolTip": "DefaultWindow\\Obj.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollisionMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CollisionMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CollisionMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CollisionMgr.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T15:50:38.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovableStone.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MovableStone.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MovableStone.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MovableStone.cpp",
+              "RelativeToolTip": "DefaultWindow\\MovableStone.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoomerangBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BoomerangBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\BoomerangBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BoomerangBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\BoomerangBullet.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KeyMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\KeyMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\KeyMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\KeyMgr.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T07:33:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoinMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CoinMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CoinMgr.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAUwIkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Grandpa.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Grandpa.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Grandpa.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Grandpa.cpp",
+              "RelativeToolTip": "DefaultWindow\\Grandpa.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Uncle.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Uncle.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.cpp",
+              "RelativeToolTip": "DefaultWindow\\Uncle.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BossGuhu.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossGuhu.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.cpp",
+              "RelativeToolTip": "DefaultWindow\\BossGuhu.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAANsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Define.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Header\\Define.h",
+              "RelativeDocumentMoniker": "Header\\Define.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Header\\Define.h",
+              "RelativeToolTip": "Header\\Define.h",
+              "ViewState": "AQIAAJUAAAAAAAAAAAArwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\stdafx.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.h",
+              "RelativeToolTip": "DefaultWindow\\stdafx.h",
+              "ViewState": "AQIAABEAAAAAAAAAAABAwCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T06:35:09.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SoundMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\SoundMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.h",
+              "RelativeToolTip": "DefaultWindow\\SoundMgr.h",
+              "ViewState": "AQIAABMAAAAAAAAAAABAwCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-27T06:41:08.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SoundMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\SoundMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SoundMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\SoundMgr.cpp",
+              "ViewState": "AQIAAIIAAAAAAAAAAABAwAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T06:41:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OctorockBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OctorockBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\OctorockBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OctorockBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\OctorockBullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BossExplosionEffect.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossExplosionEffect.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.cpp",
+              "RelativeToolTip": "DefaultWindow\\BossExplosionEffect.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MainGame.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MainGame.cpp",
+              "RelativeToolTip": "DefaultWindow\\MainGame.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAABAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T05:55:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\targetver.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\targetver.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\targetver.h",
+              "RelativeToolTip": "DefaultWindow\\targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T09:36:21.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Resource.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Resource.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Resource.h",
+              "RelativeToolTip": "DefaultWindow\\Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T09:36:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Monster.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Monster.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Monster.cpp",
+              "RelativeToolTip": "DefaultWindow\\Monster.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SceneMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\SceneMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\SceneMgr.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SceneMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\SceneMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SceneMgr.h",
+              "RelativeToolTip": "DefaultWindow\\SceneMgr.h",
+              "ViewState": "AQIAABwAAAAAAAAAAABAwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScrollMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\ScrollMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\ScrollMgr.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAABAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T07:34:15.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScrollMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\ScrollMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ScrollMgr.h",
+              "RelativeToolTip": "DefaultWindow\\ScrollMgr.h",
+              "ViewState": "AQIAABYAAAAAAAAAAABAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T07:34:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AbstractFactory.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\AbstractFactory.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\AbstractFactory.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\AbstractFactory.h",
+              "RelativeToolTip": "DefaultWindow\\AbstractFactory.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SwordEffect.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\SwordEffect.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.cpp",
+              "RelativeToolTip": "DefaultWindow\\SwordEffect.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAABAwC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StaffEffect.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\StaffEffect.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.cpp",
+              "RelativeToolTip": "DefaultWindow\\StaffEffect.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAABAwC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShieldBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ShieldBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\ShieldBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\ShieldBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\ShieldBullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SwordBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\SwordBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\SwordBullet.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAABUwCgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\stdafx.cpp",
+              "RelativeToolTip": "DefaultWindow\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T06:47:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DefaultWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DefaultWindow.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DefaultWindow.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DefaultWindow.cpp",
+              "RelativeToolTip": "DefaultWindow\\DefaultWindow.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SwordBullet.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\SwordBullet.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordBullet.h",
+              "RelativeToolTip": "DefaultWindow\\SwordBullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T06:41:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WandBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\WandBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\WandBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\WandBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\WandBullet.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAABUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T03:21:07.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Obj.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Obj.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Obj.cpp",
+              "RelativeToolTip": "DefaultWindow\\Obj.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FinalStage.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\FinalStage.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.cpp",
+              "RelativeToolTip": "DefaultWindow\\FinalStage.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinalStage.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\FinalStage.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FinalStage.h",
+              "RelativeToolTip": "DefaultWindow\\FinalStage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MyEdit.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyEdit.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.h",
+              "RelativeToolTip": "DefaultWindow\\MyEdit.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MyEdit.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyEdit.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyEdit.cpp",
+              "RelativeToolTip": "DefaultWindow\\MyEdit.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PuzzleStage.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PuzzleStage.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\PuzzleStage.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PuzzleStage.h",
+              "RelativeToolTip": "DefaultWindow\\PuzzleStage.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DoorBlock.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DoorBlock.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.cpp",
+              "RelativeToolTip": "DefaultWindow\\DoorBlock.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TerrainObj.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TerrainObj.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\TerrainObj.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TerrainObj.cpp",
+              "RelativeToolTip": "DefaultWindow\\TerrainObj.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BossRoomGate.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossRoomGate.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.cpp",
+              "RelativeToolTip": "DefaultWindow\\BossRoomGate.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DoorBlock.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DoorBlock.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DoorBlock.h",
+              "RelativeToolTip": "DefaultWindow\\DoorBlock.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GuhuSlaveEye.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\GuhuSlaveEye.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.cpp",
+              "RelativeToolTip": "DefaultWindow\\GuhuSlaveEye.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAwMAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BossRoomGate.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossRoomGate.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossRoomGate.h",
+              "RelativeToolTip": "DefaultWindow\\BossRoomGate.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RazerBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\RazerBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\RazerBullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BossExplosionEffect.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossExplosionEffect.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossExplosionEffect.h",
+              "RelativeToolTip": "DefaultWindow\\BossExplosionEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Terry.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Terry.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.cpp",
+              "RelativeToolTip": "DefaultWindow\\Terry.cpp",
+              "ViewState": "AQIAAJgAAAAAAAAAAAArwJ4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CoinMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CoinMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\CoinMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CoinMgr.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Malon.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Malon.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.cpp",
+              "RelativeToolTip": "DefaultWindow\\Malon.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAApwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RSPMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\RSPMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RSPMgr.h",
+              "RelativeToolTip": "DefaultWindow\\RSPMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Coin.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Coin.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.cpp",
+              "RelativeToolTip": "DefaultWindow\\Coin.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Coin.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Coin.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Coin.h",
+              "RelativeToolTip": "DefaultWindow\\Coin.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FireBallBullet.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\FireBallBullet.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.cpp",
+              "RelativeToolTip": "DefaultWindow\\FireBallBullet.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Octorock.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Octorock.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Octorock.h",
+              "RelativeToolTip": "DefaultWindow\\Octorock.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Malon.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Malon.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Malon.h",
+              "RelativeToolTip": "DefaultWindow\\Malon.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Door.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Door.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Door.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Door.h",
+              "RelativeToolTip": "DefaultWindow\\Door.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "InventoryMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\InventoryMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\InventoryMgr.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAADgv7kAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VillageDoorFrame3.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame3.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.h",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BossGuhu.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\BossGuhu.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\BossGuhu.h",
+              "RelativeToolTip": "DefaultWindow\\BossGuhu.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HeartUIMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\HeartUIMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.h",
+              "RelativeToolTip": "DefaultWindow\\HeartUIMgr.h",
+              "ViewState": "AQIAABwAAAAAAAAAAAApwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HeartUI.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\HeartUI.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.cpp",
+              "RelativeToolTip": "DefaultWindow\\HeartUI.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OverrayWeaponUI.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OverrayWeaponUI.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\OverrayWeaponUI.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\OverrayWeaponUI.cpp",
+              "RelativeToolTip": "DefaultWindow\\OverrayWeaponUI.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HeartUI.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\HeartUI.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUI.h",
+              "RelativeToolTip": "DefaultWindow\\HeartUI.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HeartUIMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\HeartUIMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\HeartUIMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\HeartUIMgr.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Uncle.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Uncle.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Uncle.h",
+              "RelativeToolTip": "DefaultWindow\\Uncle.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VillageStage.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageStage.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageStage.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageStage.h",
+              "RelativeToolTip": "DefaultWindow\\VillageStage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FireBallBullet.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\FireBallBullet.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\FireBallBullet.h",
+              "RelativeToolTip": "DefaultWindow\\FireBallBullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GuhuSlaveEye.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\GuhuSlaveEye.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\GuhuSlaveEye.h",
+              "RelativeToolTip": "DefaultWindow\\GuhuSlaveEye.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "RazerBullet.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\RazerBullet.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\RazerBullet.h",
+              "RelativeToolTip": "DefaultWindow\\RazerBullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "TextBoxMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TextBoxMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\TextBoxMgr.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\TextBoxMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\TextBoxMgr.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "InventoryMgr.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\InventoryMgr.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\InventoryMgr.h",
+              "RelativeToolTip": "DefaultWindow\\InventoryMgr.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SwordEffect.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\SwordEffect.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\SwordEffect.h",
+              "RelativeToolTip": "DefaultWindow\\SwordEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "StaffEffect.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\StaffEffect.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\StaffEffect.h",
+              "RelativeToolTip": "DefaultWindow\\StaffEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "VillageDoorFrame3.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame3.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame3.cpp",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "VillageDoorFrame1.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame1.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.cpp",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "VillageDoorFrame2.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame2.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.cpp",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "VillageDoorFrame2.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame2.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame2.h",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "VillageDoorFrame1.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\VillageDoorFrame1.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\VillageDoorFrame1.h",
+              "RelativeToolTip": "DefaultWindow\\VillageDoorFrame1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "PressureButton.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PressureButton.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\PressureButton.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\PressureButton.h",
+              "RelativeToolTip": "DefaultWindow\\PressureButton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Stage.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Stage.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Stage.h",
+              "RelativeToolTip": "DefaultWindow\\Stage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-26T00:00:47.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DungeonDoorFrame2.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame2.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.cpp",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "DungeonDoorFrame3.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame3.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.cpp",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DungeonDoorFrame4.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame4.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.cpp",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DungeonDoorFrame4.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame4.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame4.h",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame4.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "DungeonDoorFrame3.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame3.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame3.h",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DungeonDoorFrame5.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame5.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.h",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame5.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DungeonDoorFrame5.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame5.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame5.cpp",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame5.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwAcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DungeonDoorFrame2.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame2.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame2.h",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "DungeonDoorFrame1.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame1.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.cpp",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame1.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "DungeonDoorFrame1.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\DungeonDoorFrame1.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\DungeonDoorFrame1.h",
+              "RelativeToolTip": "DefaultWindow\\DungeonDoorFrame1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Moblin.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Moblin.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.cpp",
+              "RelativeToolTip": "DefaultWindow\\Moblin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Moblin.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Moblin.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Moblin.h",
+              "RelativeToolTip": "DefaultWindow\\Moblin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Terry.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Terry.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Terry.h",
+              "RelativeToolTip": "DefaultWindow\\Terry.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "MyMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyMenu.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.cpp",
+              "RelativeToolTip": "DefaultWindow\\MyMenu.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Edit.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Edit\\Edit.cpp",
+              "RelativeDocumentMoniker": "Edit\\Edit.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\Edit\\Edit.cpp",
+              "RelativeToolTip": "Edit\\Edit.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "MyButton.cpp",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyButton.cpp",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.cpp",
+              "RelativeToolTip": "DefaultWindow\\MyButton.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T05:53:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Wall.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Wall.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Wall.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Wall.h",
+              "RelativeToolTip": "DefaultWindow\\Wall.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "MyButton.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyButton.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyButton.h",
+              "RelativeToolTip": "DefaultWindow\\MyButton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Logo.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Logo.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Logo.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\Logo.h",
+              "RelativeToolTip": "DefaultWindow\\Logo.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "MyMenu.h",
+              "DocumentMoniker": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\MyMenu.h",
+              "ToolTip": "C:\\Users\\thl93\\Desktop\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uD504\uB85C\uADF8\uB798\uBC0D\\\uC96C\uC2E0\\\uC824\uB2E4\uC758\uC804\uC124 API\\DefaultWindow\\MyMenu.h",
+              "RelativeToolTip": "DefaultWindow\\MyMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T05:53:21.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
